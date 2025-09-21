@@ -32,7 +32,7 @@ A desktop application built with Python and Tkinter that fetches and displays re
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/vallabhatech/weather.git](https://github.com/vallabhatech/weather.git)
+    git clone https://github.com/vallabhatech/weather.git
     ```
 
 2.  **Navigate to the project directory:**
